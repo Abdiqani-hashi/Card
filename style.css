@@ -1,0 +1,39 @@
+
+body{
+    margin: 20px;
+    
+   
+    
+    
+}
+
+.main{
+    
+    background-color: #e3f2fd;
+    width: 400px;
+    margin-right: auto;
+    margin-left: auto;
+   
+   
+    padding: 20px;
+
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+   
+    
+
+    border-bottom: 4px solid #2196f3;
+
+    
+}
+.avatar{
+    width: 150px;
+
+    
+    
+}
+
+.dotted{
+    border: 1px dotted #2196f3;
+}
